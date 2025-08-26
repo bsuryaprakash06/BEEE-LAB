@@ -64,6 +64,17 @@ b.  KCL:
 ![alt text](<WhatsApp Image 2025-08-26 at 13.43.18_75ef94ad.jpg>)
 
 
+Tabulation:
+
+a.   KVL:
+ ![alt text](<WhatsApp Image 2025-08-26 at 13.46.31_10632963.jpg>)
+
+
+b.  KCL:
+
+![alt text](<WhatsApp Image 2025-08-26 at 13.46.58_f0770400.jpg>)
+
+
 RESULT:
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
